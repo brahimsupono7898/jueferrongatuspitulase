@@ -1,0 +1,4 @@
+baseURL = "https://americanmusicveeq.vercel.app"
+languageCode = "en-us"
+title = "American Beauty Sheet Music"
+theme = "hugo-theme-minos"
